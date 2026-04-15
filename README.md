@@ -142,3 +142,24 @@ set OPENAI_API_KEY=your_api_key
 ```bash
 streamlit run app.py
 ```
+
+py
+📊 Sample Dataset
+
+Use the sample CSV located in the data/ directory to test the application.
+
+🌟 Example Insight
+Transactions ↑
+Users ↑
+Revenue ↓
+
+The system flags this as a logical inconsistency, assigns a trust score, and generates an AI-powered explanation.
+
+🚀 Future Enhancements
+Integration with BI tools (Power BI, Tableau)
+Real-time dashboard monitoring
+Machine learning-based anomaly detection
+Historical trust trend analysis
+Automated audit reports
+REST API deployment
+Enterprise-grade data observability features
