@@ -127,15 +127,18 @@ git clone https://github.com/aashayaman1215/dashboard-trust-auditor.git
 cd dashboard-trust-auditor
 ```
 2. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
+
 3. Set Your OpenAI API Key
 
-Mac/Linux:
-
-export OPENAI_API_KEY=your_api_key
-
 Windows:
-
+```bash
 set OPENAI_API_KEY=your_api_key
+```
+
 4. Run the Application
+```bash
 streamlit run app.py
+```
