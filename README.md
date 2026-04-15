@@ -65,3 +65,63 @@ Trust Checks Engine
 Trust Score & AI Insights
     ↓
 Interactive Streamlit Dashboard
+
+
+---
+
+## 🧠 Product Thinking Behind This Build
+
+This project was designed not just as a technical solution, but as a product that balances accuracy, usability, and trust.
+
+### 1️⃣ Why Rules Were Used First Instead of Complex ML
+- Ensures transparency and interpretability.
+- Delivers immediate value without requiring large datasets.
+- Enables rapid prototyping and validation.
+- Aligns with real-world product development practices.
+
+**Product Principle:** *Start simple, validate fast, and iterate.*
+
+---
+
+### 2️⃣ Why AI Is Used for Explanation, Not Primary Detection
+- AI translates technical findings into business-friendly insights.
+- Improves accessibility for non-technical stakeholders.
+- Maintains transparency and reduces hallucination risks.
+- Ensures auditability and user trust.
+
+**Product Principle:** *Use AI to enhance understanding, not obscure it.*
+
+---
+
+### 3️⃣ What the Trust Score Means for a User
+The Trust Score provides a simple, intuitive measure of dashboard reliability.
+
+| Score Range | Trust Level | Meaning |
+|-------------|-------------|---------|
+| **85–100** | 🟢 High Trust | Data is reliable and decision-ready. |
+| **65–84** | 🟡 Medium Trust | Minor issues detected; review recommended. |
+| **Below 65** | 🔴 Low Trust | Significant risks present; investigation required. |
+
+**Product Principle:** *Turn complex diagnostics into simple, actionable insights.*
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Python** | Core development |
+| **Pandas** | Data processing and analysis |
+| **NumPy** | Statistical computations |
+| **Streamlit** | Interactive user interface |
+| **OpenAI API** | AI-generated summaries |
+| **Matplotlib/Plotly** | Data visualizations |
+
+---
+
+## ▶️ How to Run Locally
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/aashayaman1215/dashboard-trust-auditor.git
+cd dashboard-trust-auditor
