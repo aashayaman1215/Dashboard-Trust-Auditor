@@ -163,10 +163,10 @@ Automated audit reports
 REST API deployment
 Enterprise-grade data observability features
 
-👤 Author
+## 👤 Author
 
-Aashay
-Senior Product Manager | AI & Fintech
+- Aashay
+- Senior Product Manager | AI & Fintech
 
 🔗 GitHub: https://github.com/aashayaman1215
 🔗 LinkedIn: https://www.linkedin.com/in/aashayamans
