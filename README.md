@@ -45,7 +45,7 @@ When revenue does not reconcile, related metrics move in conflicting directions,
 ## 📸 Demo
 
 ### Dashboard Overview
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](assets/dashboard_screenshot.jpg)
 
 ### Architecture Diagram
 ![Architecture Diagram](assets/architecture_diagram.png)
