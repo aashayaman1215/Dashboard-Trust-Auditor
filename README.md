@@ -1,14 +1,12 @@
-# Dashboard-Trust-Auditor
-AI-powered tool to audit dashboard trust by detecting anomalies, inconsistencies, and data risks.
+# Dashboard Trust Auditor
 
-# 🧠 Dashboard Trust Auditor
+An AI-powered tool that audits dashboard reliability by detecting anomalies, metric inconsistencies, and logical trust gaps before they affect business decisions.
 
-Most dashboards don’t break. They lie.
+## Why this matters
 
-The **Dashboard Trust Auditor** is an AI-powered tool that evaluates the reliability of analytics dashboards by detecting anomalies, inconsistencies, and logical errors before they impact business decisions.
+Most dashboards do not fail loudly. They fail silently.
 
-🔗 **Live Repository:**  
-https://github.com/aashayaman1215/dashboard-trust-auditor
+When revenue does not reconcile, related metrics move in conflicting directions, or data appears suspiciously perfect, teams lose trust and start relying on manual workarounds. This tool adds a trust layer on top of analytics systems.
 
 ---
 
