@@ -12,12 +12,23 @@ When revenue does not reconcile, related metrics move in conflicting directions,
 
 ## 🚀 Features
 
-- ✅ Metric Consistency Validation
-- 📊 Anomaly Detection using Statistical Methods
-- ⚠️ Logical Inconsistency Checks
-- 📉 Trust Score Generation
-- 🤖 AI-Powered Executive Summaries
-- 📈 Interactive Visualizations using Streamlit
+- ✅ **Metric Consistency Validation**  
+  Ensures relationships like Revenue = Transactions × Average Order Value are accurate.
+
+- 📊 **Anomaly Detection**  
+  Identifies unusual patterns using statistical techniques such as z-score analysis.
+
+- ⚠️ **Logical Inconsistency Checks**  
+  Flags contradictions across metrics (e.g., rising transactions but declining revenue).
+
+- 📉 **Trust Score Generation**  
+  Quantifies dashboard reliability on a scale of 0–100.
+
+- 🤖 **AI-Powered Executive Summaries**  
+  Converts technical issues into business-friendly insights using AI.
+
+- 📈 **Interactive Visualizations**  
+  Provides intuitive dashboards built with Streamlit.
 
 ---
 
