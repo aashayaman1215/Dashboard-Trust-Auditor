@@ -7,6 +7,9 @@ Most dashboards don’t break. They lie.
 
 The **Dashboard Trust Auditor** is an AI-powered tool that evaluates the reliability of analytics dashboards by detecting anomalies, inconsistencies, and logical errors before they impact business decisions.
 
+🔗 **Live Repository:**  
+https://github.com/aashayaman1215/dashboard-trust-auditor
+
 ---
 
 ## 🚀 Features
@@ -16,7 +19,7 @@ The **Dashboard Trust Auditor** is an AI-powered tool that evaluates the reliabi
 - ⚠️ Logical Inconsistency Checks
 - 📉 Trust Score Generation
 - 🤖 AI-Powered Executive Summaries
-- 📈 Interactive Visualizations
+- 📈 Interactive Visualizations using Streamlit
 
 ---
 
@@ -24,27 +27,32 @@ The **Dashboard Trust Auditor** is an AI-powered tool that evaluates the reliabi
 
 - **Python**
 - **Pandas**
+- **NumPy**
 - **Streamlit**
 - **OpenAI API**
-- **NumPy**
 
 ---
 
 ## 📸 Demo
 
+### Dashboard Overview
 ![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
----
-
-## 🏗️ Architecture
-
+### Architecture Diagram
 ![Architecture Diagram](assets/architecture_diagram.png)
 
 ---
 
-## ▶️ How to Run Locally
+## 🏗️ Architecture Overview
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/dashboard-trust-auditor.git
-cd dashboard-trust-auditor
+```plaintext
+CSV Upload
+    ↓
+Data Validation & Preprocessing
+    ↓
+Trust Checks Engine
+(Metric Consistency, Anomaly Detection, Logical Validation)
+    ↓
+Trust Score & AI Insights
+    ↓
+Interactive Streamlit Dashboard
