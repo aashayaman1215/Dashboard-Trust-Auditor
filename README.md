@@ -165,8 +165,8 @@ Enterprise-grade data observability features
 
 ## 👤 Author
 
-- Aashay
-- Senior Product Manager | AI & Fintech
+Aashay
+Senior Product Manager | AI & Fintech
 
 🔗 GitHub: https://github.com/aashayaman1215
 🔗 LinkedIn: https://www.linkedin.com/in/aashayamans
