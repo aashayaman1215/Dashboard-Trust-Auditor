@@ -1,4 +1,4 @@
-date	active_users	new_users	transactions	revenue	avg_order_value	refunds	marketing_spend
+date,	active_users,	new_users,	transactions,	revenue,	avg_order_value,	refunds,	marketing_spend
 01-03-2026	1200	300	180	36000	200	5	8000
 02-03-2026	1250	320	190	38000	200	6	8200
 03-03-2026	1300	310	200	40000	200	7	8500
