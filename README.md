@@ -125,3 +125,17 @@ The Trust Score provides a simple, intuitive measure of dashboard reliability.
 ```bash
 git clone https://github.com/aashayaman1215/dashboard-trust-auditor.git
 cd dashboard-trust-auditor
+```
+2. Install Dependencies
+pip install -r requirements.txt
+3. Set Your OpenAI API Key
+
+Mac/Linux:
+
+export OPENAI_API_KEY=your_api_key
+
+Windows:
+
+set OPENAI_API_KEY=your_api_key
+4. Run the Application
+streamlit run app.py
