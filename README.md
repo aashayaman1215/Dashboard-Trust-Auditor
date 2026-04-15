@@ -155,13 +155,13 @@ Use the sample CSV located in the data/ directory to test the application.
 The system flags this as a logical inconsistency, assigns a trust score, and generates an AI-powered explanation.
 
 ## 🚀 Future Enhancements
-Integration with BI tools (Power BI, Tableau)
-Real-time dashboard monitoring
-Machine learning-based anomaly detection
-Historical trust trend analysis
-Automated audit reports
-REST API deployment
-Enterprise-grade data observability features
+- Integration with BI tools (Power BI, Tableau)
+- Real-time dashboard monitoring
+- Machine learning-based anomaly detection
+- Historical trust trend analysis
+- Automated audit reports
+- REST API deployment
+- Enterprise-grade data observability features
 
 ## 👤 Author
 
