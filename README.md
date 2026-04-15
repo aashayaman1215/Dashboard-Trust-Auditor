@@ -66,6 +66,7 @@ Trust Score & AI Insights
     ↓
 Interactive Streamlit Dashboard
 
+![Product Thinking](https://img.shields.io/badge/Focus-Product%20Thinking-blue)
 
 ---
 
