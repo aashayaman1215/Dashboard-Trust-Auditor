@@ -148,9 +148,9 @@ streamlit run app.py
 Use the sample CSV located in the data/ directory to test the application.
 
 🌟 Example Insight
-Transactions ↑
-Users ↑
-Revenue ↓
+- Transactions ↑
+= Users ↑
+= Revenue ↓
 
 The system flags this as a logical inconsistency, assigns a trust score, and generates an AI-powered explanation.
 
