@@ -126,35 +126,35 @@ The Trust Score provides a simple, intuitive measure of dashboard reliability.
 git clone https://github.com/aashayaman1215/dashboard-trust-auditor.git
 cd dashboard-trust-auditor
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set Your OpenAI API Key
+### 3. Set Your OpenAI API Key
 
 Windows:
 ```bash
 set OPENAI_API_KEY=your_api_key
 ```
 
-4. Run the Application
+### 4. Run the Application
 ```bash
 streamlit run app.py
 ```
 
-📊 Sample Dataset
+## 📊 Sample Dataset
 
 Use the sample CSV located in the data/ directory to test the application.
 
 🌟 Example Insight
-Transactions ↑
-Users ↑
-Revenue ↓
+- Transactions ↑
+- Users ↑
+- Revenue ↓
 
 The system flags this as a logical inconsistency, assigns a trust score, and generates an AI-powered explanation.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Integration with BI tools (Power BI, Tableau)
 Real-time dashboard monitoring
 Machine learning-based anomaly detection
@@ -166,7 +166,9 @@ Enterprise-grade data observability features
 ## 👤 Author
 
 Aashay
+
 Senior Product Manager | AI & Fintech
 
 🔗 GitHub: https://github.com/aashayaman1215
+
 🔗 LinkedIn: https://www.linkedin.com/in/aashayamans
