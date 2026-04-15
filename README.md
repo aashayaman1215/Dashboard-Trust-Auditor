@@ -143,7 +143,6 @@ set OPENAI_API_KEY=your_api_key
 streamlit run app.py
 ```
 
-py
 📊 Sample Dataset
 
 Use the sample CSV located in the data/ directory to test the application.
